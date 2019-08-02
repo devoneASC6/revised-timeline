@@ -1,0 +1,45 @@
+
+.jumbotron.style{
+    background-color: orange;
+}
+ h2{
+     margin-bottom: 5%;
+     margin-top: 5%!important;
+     border: 30px  yellow;
+}
+
+ p{
+    background-color: green;
+    border-width: 3px ;
+    border-style: solid;
+    border-color: red;
+    width: 50%;
+    padding-left: 6px;
+}
+
+button{
+    background-color: skyblue;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 320px){
+    .main-container{
+        text-align: center;
+        
+    }
+    p{
+        margin:auto;
+    }   
+}
